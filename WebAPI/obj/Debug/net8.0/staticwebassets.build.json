@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ioimlv+/LgfStSqldiev6OB9Yu2pS30MNcirvc2kJ30=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "C:\\Users\\ilkin\\source\\repos\\cavid\\ReCapProject1\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
